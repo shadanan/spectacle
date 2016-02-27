@@ -135,6 +135,14 @@
                                               action:kSpectacleWindowActionCenter];
 }
 
+- (IBAction)setDimensionsOfFrontmostWindow:(id)sender
+{
+  [_windowPositionManager moveFrontmostWindowElement:[SpectacleAccessibilityElement frontmostWindowElement]
+                                              action:kSpectacleWindowActionSetDimensions];
+}
+
+#pragma mark -
+
 - (IBAction)moveFrontmostWindowToLeftHalf:(id)sender
 {
   [_windowPositionManager moveFrontmostWindowElement:[SpectacleAccessibilityElement frontmostWindowElement]

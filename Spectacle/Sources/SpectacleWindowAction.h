@@ -9,6 +9,7 @@ extern SpectacleWindowAction *const kSpectacleWindowActionSmaller;
 extern SpectacleWindowAction *const kSpectacleWindowActionNone;
 extern SpectacleWindowAction *const kSpectacleWindowActionCenter;
 extern SpectacleWindowAction *const kSpectacleWindowActionFullscreen;
+extern SpectacleWindowAction *const kSpectacleWindowActionSetDimensions;
 extern SpectacleWindowAction *const kSpectacleWindowActionLeftHalf;
 extern SpectacleWindowAction *const kSpectacleWindowActionUpperLeft;
 extern SpectacleWindowAction *const kSpectacleWindowActionLowerLeft;

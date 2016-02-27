@@ -7,6 +7,7 @@ SpectacleWindowAction *const kSpectacleWindowActionSmaller = @"SpectacleWindowAc
 SpectacleWindowAction *const kSpectacleWindowActionNone = @"SpectacleWindowActionNone";
 SpectacleWindowAction *const kSpectacleWindowActionCenter = @"SpectacleWindowActionCenter";
 SpectacleWindowAction *const kSpectacleWindowActionFullscreen = @"SpectacleWindowActionFullscreen";
+SpectacleWindowAction *const kSpectacleWindowActionSetDimensions = @"SpectacleWindowActionSetDimensions";
 SpectacleWindowAction *const kSpectacleWindowActionLeftHalf = @"SpectacleWindowActionLeftHalf";
 SpectacleWindowAction *const kSpectacleWindowActionUpperLeft = @"SpectacleWindowActionUpperLeft";
 SpectacleWindowAction *const kSpectacleWindowActionLowerLeft = @"SpectacleWindowActionLowerLeft";
